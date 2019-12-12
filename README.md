@@ -1,6 +1,6 @@
 # Quasar App (hybrid-project)
 
-A Quasar Framework app
+A Quasar Framework App: product from a 2-day crash course in hybrid full stack development using progressive UI framework and real time database
 
 ## Install the dependencies
 ```bash
