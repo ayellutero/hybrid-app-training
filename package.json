@@ -14,7 +14,7 @@
     "@quasar/extras": "^1.0.0",
     "firebase": "^7.2.1",
     "quasar": "^1.2.4",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "vuefire": "^2.2.0"
   },
   "devDependencies": {
